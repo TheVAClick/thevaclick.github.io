@@ -40,15 +40,15 @@ social:
   email: theva.click@outlook.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your twitter homepage
+    - https://twitter.com/theva_click # change to your twitter homepage
     # https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/profile.php?id=61561654485954
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
 webmaster_verifications:
-  google: # fill in your Google verification code
+  google: google-site-verification=U2llucMS0vBu-2mxj112zg_RZvgNALavk00uXwqQdTo # fill in your Google verification code
   bing: # fill in your Bing verification code
   alexa: # fill in your Alexa verification code
   yandex: # fill in your Yandex verification code
@@ -61,7 +61,7 @@ webmaster_verifications:
 # Web Analytics Settings
 analytics:
   google:
-    id: # fill in your Google Analytics ID
+    id: G-SRQL4CVL40 # fill in your Google Analytics ID
   goatcounter:
     id: thevaclick # fill in your GoatCounter ID
   umami:
