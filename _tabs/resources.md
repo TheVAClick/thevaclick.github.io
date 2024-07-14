@@ -10,8 +10,6 @@ order: 3
 ## Blog engine
 - [Jekyl](https://jekyllrb.com/)
 - [Chirpy](https://github.com/cotes2020/jekyll-theme-chirpy) Jekyll theme
-- [Hugo](https://gohugo.io/)
-- [Astro](https://astro.build/)
 
 ## Hosting
 - [Github Pages](https://pages.github.com/)
@@ -19,8 +17,9 @@ order: 3
 ## Keyword research
 - [Google Keyword Planner](https://ads.google.com/intl/en_us/home/tools/keyword-planner/)
 - [Keyword Tool](https://keywordtool.io/)
-- [ahrefs](https://ahrefs.com/)
+- [ahrefs](https://ahrefs.com/webmaster-tools) webmaster tools
 - [Ubersuggest](https://neilpatel.com/ubersuggest/)
+- [H-Supertools](https://hsuper.tools/)
 
 **Youtube**
 - [vidIQ](https://vidiq.com/reviewsndco)
@@ -33,4 +32,3 @@ order: 3
 ## Ideas and outlining
 - [Notion](https://www.notion.so/)
 - [Joplin](https://joplinapp.org/)
-- [Obsidian](https://obsidian.md/)
