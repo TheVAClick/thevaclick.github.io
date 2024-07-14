@@ -5,6 +5,7 @@ order: 4
 ---
 
 Feel free to contact us per [E-Mail](mailto:theva.clickt@outlook.com) or use one of the methods bellow.
+
 ## Social links
 - [Facebook](https://www.facebook.com/profile.php?id=61561654485954)
 - [Instagram](https://www.instagram.com/theva.click/)
@@ -19,10 +20,10 @@ Feel free to contact us per [E-Mail](mailto:theva.clickt@outlook.com) or use one
 ## We are on the Blockchain & Web3
 - [GRASS](https://app.getgrass.io/register/?referralCode=k-XoGJXEB-QtI6w) platform that runs the AI Blockchain
 - [Ecency](https://ecency.com/@nostalgiqa) on the Hive Blockchain
-- [Odysee](https://odysee.com/$/invite/@TheVA.Click:5) a Web 3 alternative to YouTube
+- [Odysee](https://odysee.com/$/invite/@TheVA.Click:5) a Web3 alternative to YouTube
 - [Bluesky](thevaclick.bsky.social)
 
 ## Support our work
 - [Ecency](https://ecency.com/@nostalgiqa) on the Hive Blockchain
 - [Odysee](https://odysee.com/$/invite/@TheVA.Click:5) a Web 3 alternative to YouTube
-- You can buy us a [Ko-Fi](https://ko-fi.com/thevaclick).
+- You can buy us a [Ko-Fi](https://ko-fi.com/thevaclick)
