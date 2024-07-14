@@ -15,13 +15,13 @@ Feel free to contact us per [E-Mail](mailto:theva.clickt@outlook.com) or use one
 - [Ko-Fi](https://ko-fi.com/thevaclick)
 - [Pinterest](https://pin.it/2OHz5ZzEQ)
 - [YouTube](https://www.youtube.com/@TheVA-Click)
-- [TikTok](www.tiktok.com/@theva.click)
+- [TikTok](https://www.tiktok.com/@theva.click)
 
 ## We are on the Blockchain & Web3
 - [GRASS](https://app.getgrass.io/register/?referralCode=k-XoGJXEB-QtI6w) platform that runs the AI Blockchain
 - [Ecency](https://ecency.com/@nostalgiqa) on the Hive Blockchain
 - [Odysee](https://odysee.com/$/invite/@TheVA.Click:5) a Web3 alternative to YouTube
-- [Bluesky](thevaclick.bsky.social)
+- [Bluesky](https://bsky.app/profile/thevaclick.bsky.social)
 
 ## Support our work
 - [Ecency](https://ecency.com/@nostalgiqa) on the Hive Blockchain
