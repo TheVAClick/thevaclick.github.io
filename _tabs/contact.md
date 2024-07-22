@@ -2,12 +2,13 @@
 # the default layout is 'page'
 icon: fa-solid fa-address-card
 order: 4
+description: "Want to get in touch with us? Drop us a line or 2, we are social."
 ---
 
 Feel free to contact us per [E-Mail](mailto:theva.clickt@outlook.com) or use one of the methods bellow.
 
 ## Social links
-- [Facebook](https://www.facebook.com/profile.php?id=61561654485954)
+- [Facebook](https://www.facebook.com/theva.click/)
 - [Instagram](https://www.instagram.com/theva.click/)
 - [Threads](https://www.threads.net/@theva.click)
 - [X](https://x.com/theva_click) formerly Twitter
@@ -26,4 +27,5 @@ Feel free to contact us per [E-Mail](mailto:theva.clickt@outlook.com) or use one
 ## Support our work
 - [Ecency](https://ecency.com/@nostalgiqa) on the Hive Blockchain
 - [Odysee](https://odysee.com/$/invite/@TheVA.Click:5) a Web 3 alternative to YouTube
-- You can buy us a [Ko-Fi](https://ko-fi.com/thevaclick)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I11085GZ)

@@ -43,7 +43,7 @@ social:
     - https://twitter.com/theva_click # change to your twitter homepage
     # https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
-    - https://www.facebook.com/profile.php?id=61561654485954
+    - https://www.facebook.com/theva.click/
     # - https://www.linkedin.com/in/username
 
 # Site Verification Settings
@@ -98,7 +98,7 @@ theme_mode: # [light | dark]
 cdn: ""
 
 # the avatar on sidebar, support local or CORS resources
-avatar: "/assets/img/logo.svg"
+avatar: "/assets/img/logo.png"
 
 # The URL of the site-wide social preview image used in SEO `og:image` meta tag.
 # It can be overridden by a customized `page.image` in front matter.

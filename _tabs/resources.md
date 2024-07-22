@@ -2,6 +2,7 @@
 # the default layout is 'page'
 icon: fa-solid fa-toolbox
 order: 3
+description: "These are the resources we use in our day to day work as VAs and content creators. Stay tuned since we update them constantly."
 ---
 
 ## Domain Name
@@ -32,3 +33,5 @@ order: 3
 ## Ideas and outlining
 - [Notion](https://www.notion.so/)
 - [Joplin](https://joplinapp.org/)
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/I2I11085GZ)
